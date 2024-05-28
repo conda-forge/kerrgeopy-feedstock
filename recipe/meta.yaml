@@ -1,5 +1,5 @@
 {% set name = "kerrgeopy" %}
-{% set version = "0.9.1" %}
+{% set version = "0.9.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/kerrgeopy-{{ version }}.tar.gz
-  sha256: 4ae9d7cc2605a0b80d4d382b7e3332a9566fbca1f2e0cc921676833230c0517f
+  sha256: b95b5e31941214115442e21d5e7775fdf5d7285d42ca7687df6f7b0a12977318
 
 build:
   noarch: python
