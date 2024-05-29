@@ -37,7 +37,7 @@ test:
 about:
   home: https://github.com/BlackHolePerturbationToolkit/KerrGeoPy
   summary: Library for computing stable and plunging geodesics in Kerr spacetime
-  license: GPL-3.0
+  license: MIT
   license_file: LICENSE
   doc_url: https://kerrgeopy.readthedocs.io/en/latest/
 
