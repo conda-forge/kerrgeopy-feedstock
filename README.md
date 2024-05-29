@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kerrgeopy-feeds
 
 Home: https://github.com/BlackHolePerturbationToolkit/KerrGeoPy
 
-Package license: GPL-3.0
+Package license: MIT
 
 Summary: Library for computing stable and plunging geodesics in Kerr spacetime
 
